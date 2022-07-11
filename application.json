@@ -1,0 +1,47 @@
+{
+  "pages": [
+    {
+      "id": "Function main",
+      "isDefault": true
+    },
+    {
+      "id": "manage employee",
+      "isDefault": false
+    },
+    {
+      "id": "manage product",
+      "isDefault": false
+    },
+    {
+      "id": "Login",
+      "isDefault": false
+    },
+    {
+      "id": "ThongKeDoanhThu",
+      "isDefault": false
+    },
+    {
+      "id": "TimKiemHoaDon",
+      "isDefault": false
+    },
+    {
+      "id": "LapHoaDon",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#FFEFDB",
+  "icon": "airplane",
+  "unpublishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "publishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "isManualUpdate": false,
+  "deleted": false
+}
